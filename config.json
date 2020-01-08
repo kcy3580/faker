@@ -1,0 +1,16 @@
+{
+    "mysqlInfo": {
+        "host": "localhost",
+        "user": "root",
+        "password": "seoil"
+    },
+    "myInfo": {
+        "host": "localhost",
+        "db": "aaaa",
+        "user": "bbbb",
+        "password": "cccc"
+    },
+    "oracleInfo": {
+
+    }
+}
